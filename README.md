@@ -1,5 +1,5 @@
-[/global-village-stats.png]
+![global](/global-village-stats.png)
 
-##What if the world were just 5000 people what would that look like?
+#### What if the world pop. scaled to just 5000 👪👪? Where would everyone live 🌐? How many would live in apartments 🏢 vs detached houses 🏠?
 
-Heat Map and Cross Tabulation in R
+Heat Map and Cross Tabulation in R with best-guess data.
